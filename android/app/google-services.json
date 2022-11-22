@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "362283742734",
+    "project_id": "terserah-ff0bb",
+    "storage_bucket": "terserah-ff0bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362283742734:android:abd7bf89550083a6dd2e5f",
+        "android_client_info": {
+          "package_name": "com.example.minggu_11"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362283742734-u0fv6i091eaa1sg6ir6d9c9dm73p5bje.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsm0JwDfW6wF7bo7wLbaVYPDzDBwKjvdI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "362283742734-u0fv6i091eaa1sg6ir6d9c9dm73p5bje.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
